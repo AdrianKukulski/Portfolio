@@ -1,6 +1,6 @@
 # Portfolio
 # About me
-My name is Adrian Kukulski. In the past, I worked in the trade, but for some time I started to be interested in software testing. I would like to develop my skills in this direction and here I will update my experience and software with which I was able to get acquainted. I am learning the ISTQB syllabus to get a certificate in the near future.I know that the portfolio is not completed yet, but I will complete them along with the projects I have worked on.
+My name is Adrian Kukulski. In the past, I worked in the trade, but for some time I started to be interested in software testing. I would like to develop my skills in this direction and here I will update my experience and software with which I was able to get acquainted. I am learning the ISTQB syllabus to get a certificate in the near future. I know that the portfolio is not completed yet, but I will complete them along with the projects I have worked on.
 # Tools
 - [Postman](https://www.postman.com/)
 - [Jira](https://www.atlassian.com/software/jira0) 
